@@ -7,4 +7,6 @@ Repositório criado para o Desafio de Projeto
 
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+[XAMPP](https://www.apachefriends.org/pt_br/index.html)
 [W3Schools](https://www.w3schools.com/)
+[JQuery User Interface](https://jqueryui.com/)
